@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  blurb: MyString
+  cover_url: MyString
+  issue_num: 1
+  year: 1
+
+two:
+  title: MyString
+  blurb: MyString
+  cover_url: MyString
+  issue_num: 1
+  year: 1
